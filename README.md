@@ -3,8 +3,6 @@
 This repository tracks devices officially supported by **CortenaOS**.  
 Each device has its own branch with detailed specifications and information.
 
----
-
 ## 📱 Supported Devices
 
 ### Redmi Note 9 (Merlin / Merlinx) — MediaTek Helio G85 (MT6768)
@@ -12,8 +10,6 @@ Each device has its own branch with detailed specifications and information.
 | Type       | URL                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------- |
 | Repository | [Merlin / Merlinx](https://github.com/CortenaOS/cortena_device_support/tree/merlin) |
-
----
 
 ## 🔖 Notes
 
