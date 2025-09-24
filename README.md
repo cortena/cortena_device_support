@@ -7,9 +7,9 @@ Each device has its own branch with detailed specifications and information.
 
 ### Redmi Note 9 (Merlin / Merlinx) — MediaTek Helio G85 (MT6768)
 
-| Type       | URL                                                                                 |
-| ---------- | ----------------------------------------------------------------------------------- |
-| Repository | [Merlin / Merlinx](https://github.com/CortenaOS/cortena_device_support/tree/merlin) |
+| Type       | URL                                                                               |
+| ---------- | --------------------------------------------------------------------------------- |
+| Repository | [Merlin / Merlinx](https://github.com/cortena/cortena_device_support/tree/merlin) |
 
 ## 🔖 Notes
 
