@@ -11,9 +11,11 @@ The Xiaomi Redmi Note 9 (codenamed _"merlin"_) is an entry-level smartphone from
 | Vendor Tree | [Github]() |
 
 ## Device Specifications
+
 Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.php)
 
 ## Network
+
 | Technology | GSM / HSPA / LTE                          |
 | ---------- | ----------------------------------------- |
 | 2G Bands   | GSM 850 / 900 / 1800 / 1900               |
@@ -22,11 +24,13 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 | Speed      | HSPA, LTE                                 |
 
 ## Launch
+
 | Announced | 2020, April 30                   |
 | --------- | -------------------------------- |
 | Status    | Available. Released 2020, May 12 |
 
 ## Body
+
 | Dimensions | 162.3 x 77.2 x 8.9 mm (6.39 x 3.04 x 0.35 in)              |
 | ---------- | ---------------------------------------------------------- |
 | Weight     | 199 g (7.02 oz)                                            |
@@ -35,6 +39,7 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 |            | Water-repellent coating                                    |
 
 ## Display
+
 | Type       | IPS LCD, 450 nits (typ)                              |
 | ---------- | ---------------------------------------------------- |
 | Size       | 6.53 inches, 104.7 cm2 (~83.5% screen-to-body ratio) |
@@ -42,6 +47,7 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 | Protection | Corning Gorilla Glass 5                              |
 
 ## Platform
+
 | Shipped Android version | Android 10 (Q)                                          |
 | ----------------------- | ------------------------------------------------------- |
 | Chipset / SoC           | Mediatek MT6769Z Helio G85 (12 nm)                      |
@@ -49,6 +55,7 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 | GPU                     | Mali-G52 MC2                                            |
 
 ## Memory
+
 | Card Slot | microSDXC (dedicated slot) Up to 256 GB |
 | --------- | --------------------------------------- |
 | Internal  | 64GB 3GB RAM (3/64)                     |
@@ -57,6 +64,7 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 |           | 128GB 6GB RAM (6/128)                   |
 
 ## Main Camera
+
 | Quad     | 48 MP, f/1.8, 26mm (wide), 1/2.0", 0.8µm, PDAF |
 | -------- | ---------------------------------------------- |
 |          | 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0", 1.12µm  |
@@ -68,6 +76,7 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 | Video    | 1080p@30fps                                    |
 
 ## Selfie Camera
+
 | Single   | 13 MP, f/2.3, 29mm (standard), 1/3.1", 1.12µm |
 | -------- | --------------------------------------------- |
 | Features | HDR                                           |
@@ -75,11 +84,13 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 | Video    | 1080p@30fps                                   |
 
 ## Sound
+
 | Loudspeaker | Yes |
 | ----------- | --- |
 | 3.5mm Jack  | Yes |
 
 ## Comms
+
 | WLAN          | Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct |
 | ------------- | ------------------------------------------------ |
 | Bluetooth     | 5.0, A2DP, LE                                    |
@@ -91,6 +102,7 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 | USB           | USB Type-C 2.0                                   |
 
 ## Features
+
 | Sensors | Fingerprint (rear-mounted) |
 | ------- | -------------------------- |
 |         | accelerometer              |
@@ -99,6 +111,7 @@ Source from [GSMArena.com](https://www.gsmarena.com/xiaomi_redmi_note_9-10192.ph
 |         | compass                    |
 
 ## Battery
+
 | Type     | Non-removable Li-Po 5020 mAh |
 | -------- | ---------------------------- |
 | Charging | 18W wired                    |
